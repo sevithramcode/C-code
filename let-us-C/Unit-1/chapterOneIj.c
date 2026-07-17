@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//this program provides least number of bills for the requested amount 
 int main(){
 	
 	int moneyWanted;
